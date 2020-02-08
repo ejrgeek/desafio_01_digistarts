@@ -9,8 +9,3 @@ build/
 
 # Directory created by dartdoc
 doc/api/
-
-# proj
-bin/main.dart
-lib/base.dart
-test/base_test.dart
